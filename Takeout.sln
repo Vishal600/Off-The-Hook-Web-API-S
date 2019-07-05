@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Takeout", "Takeout.csproj", "{61720133-7502-4AF0-86F8-1967FFC4F072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61720133-7502-4AF0-86F8-1967FFC4F072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61720133-7502-4AF0-86F8-1967FFC4F072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61720133-7502-4AF0-86F8-1967FFC4F072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61720133-7502-4AF0-86F8-1967FFC4F072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66D18173-6DB7-447C-910D-B9127C05E0DC}
+	EndGlobalSection
+EndGlobal
